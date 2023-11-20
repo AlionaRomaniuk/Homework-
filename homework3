@@ -1,0 +1,4 @@
+a=100                                                                                                                                                      
+b=500
+for i in range(a, b):
+    print(i+1)
